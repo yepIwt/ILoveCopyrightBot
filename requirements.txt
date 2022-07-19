@@ -1,0 +1,5 @@
+music_tag
+aiogram
+TikTokApi
+yandex_music
+pytube
